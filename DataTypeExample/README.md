@@ -323,14 +323,14 @@ Escribe un programa que compare dos arrays de números enteros para determinar s
 
 ---
 
-## Ejercicio 27: Verificar orden ascendente en una lista de números enteros
+## Ejercicio 27: Verificar orden descendente en una lista de números enteros
 
-Desarrolla un programa que determine si una lista de números está ordenada en orden ascendente.
+Desarrolla un programa que determine si una lista de números está ordenada en orden descendente.
 
 - **Entrada:**
     - Una lista de números enteros.
 - **Salida:**
-    - `true` si la lista está en orden ascendente.
+    - `true` si la lista está en orden descendente.
     - `false` en caso contrario.
 
 ---
